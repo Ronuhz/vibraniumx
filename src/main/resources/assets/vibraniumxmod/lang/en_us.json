@@ -1,4 +1,7 @@
 {
   "item.vibraniumxmod.vibranium_ingot": "Vibranium Ingot",
-  "itemGroup.vibraniumxmod.vibranium": "VibraniumX"
+
+  "block.vibraniumxmod.vibranium_ore": "Vibranium Ore",
+
+  "itemGroup.vibraniumxmod.vibranium": "VibraniumX Tab"
 }

@@ -1,5 +1,6 @@
 package me.frizles.vibraniumxmod;
 
+import me.frizles.vibraniumxmod.block.ModBlocks;
 import me.frizles.vibraniumxmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -12,5 +13,6 @@ public class VibraniumxMod implements ModInitializer {
     @Override
     public void onInitialize() {
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
     }
 }

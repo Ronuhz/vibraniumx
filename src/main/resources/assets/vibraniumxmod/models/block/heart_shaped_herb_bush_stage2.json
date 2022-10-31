@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "vibraniumxmod:block/sweet_berry_bush_stage2"
+  }
+}

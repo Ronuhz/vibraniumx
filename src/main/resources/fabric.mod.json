@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "me.frizles.vibraniumxmod.VibraniumxMod"
+    ],
+    "client": [
+      "me.frizles.vibraniumxmod.VibraniumxModClient"
     ]
   },
   "mixins": [

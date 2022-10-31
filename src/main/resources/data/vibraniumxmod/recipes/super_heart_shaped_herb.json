@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "super_heart_shaped_herb",
+  "pattern": [
+    "HHH",
+    "HNH",
+    "HHH"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "H": {
+      "item": "vibraniumxmod:heart_shaped_herb"
+    }
+  },
+  "result": {
+    "item": "vibraniumxmod:super_heart_shaped_herb"
+  }
+}

@@ -1,7 +1,10 @@
 {
   "item.vibraniumxmod.vibranium_ingot": "Vibranium Ingot",
+  "item.vibraniumxmod.heart_shaped_herb": "Heart Shaped Herb",
+  "item.vibraniumxmod.super_heart_shaped_herb": "Super Heart Shaped Herb",
 
   "block.vibraniumxmod.vibranium_ore": "Vibranium Ore",
+  "block.vibraniumxmod.heart_shaped_herb_bush": "Heart Shaped Herb Bush",
 
   "itemGroup.vibraniumxmod.vibranium": "VibraniumX Tab"
 }

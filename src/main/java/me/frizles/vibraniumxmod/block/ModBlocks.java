@@ -19,6 +19,9 @@ public class ModBlocks {
     public static final Block VIBRANIUM_ORE = registerBlock("vibranium_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.VIBRANIUM);
 
+    public static final Block VIBRANIUM_BLOCK = registerBlock("vibranium_block",
+            new OreBlock(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.VIBRANIUM);
+
     public static final Block HEART_SHAPED_HERB_BUSH = registerBlockWithoutItem("heart_shaped_herb_bush",
             new HeartShapedHerbBushBlock(FabricBlockSettings.copyOf(Blocks.SWEET_BERRY_BUSH)));
 

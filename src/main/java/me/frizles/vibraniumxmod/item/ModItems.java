@@ -12,7 +12,7 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    public static final Item VIBRANIUM_INGOT = registerItem("vibranium_ingot",
+    public static final Item VIBRANIUM_INGOT = registerItem("vibranium_ingots",
             new Item(new FabricItemSettings().group(ModItemGroup.VIBRANIUM)));
 
     public static final Item HEART_SHAPED_HERB = registerItem("heart_shaped_herb",

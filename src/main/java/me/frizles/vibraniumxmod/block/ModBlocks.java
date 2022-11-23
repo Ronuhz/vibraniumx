@@ -16,7 +16,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
-    public static final Block VIBRANIUM_ORE = registerBlock("vibranium_ore",
+    public static final Block DEEPSLATE_VIBRANIUM_ORE = registerBlock("deepslate_vibranium_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.VIBRANIUM);
 
     public static final Block VIBRANIUM_BLOCK = registerBlock("vibranium_block",

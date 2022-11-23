@@ -4,7 +4,7 @@
   "experience": 0.7,
   "group": "vibranium",
   "ingredient": {
-    "item": "vibraniumxmod:vibranium_ore"
+    "item": "vibraniumxmod:deepslate_vibranium_ore"
   },
   "result": "vibraniumxmod:vibranium_ingot"
 }

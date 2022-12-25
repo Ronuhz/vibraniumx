@@ -1,6 +1,7 @@
 package me.frizles.vibraniumxmod;
 
 import me.frizles.vibraniumxmod.block.ModBlocks;
+import me.frizles.vibraniumxmod.fluid.ModFluids;
 import me.frizles.vibraniumxmod.item.ModItems;
 import me.frizles.vibraniumxmod.world.feature.ModConfiguredFeatures;
 import me.frizles.vibraniumxmod.world.gen.ModOreGeneration;
@@ -20,5 +21,7 @@ public class VibraniumxMod implements ModInitializer {
         ModBlocks.registerModBlocks();
 
         ModOreGeneration.generateOres();
+
+        ModFluids.register();
     }
 }
